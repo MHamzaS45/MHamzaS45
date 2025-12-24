@@ -2,7 +2,7 @@
 
 ## Student of IIT | Software Developer | Game Developer 
 
-I'm a student of IIT, who is actively looking to develop innovative solutions in the tech industry, be it for developing complex game mechanics or engineering problem solving techniques for digital systems. 
+I'm a student of IIT, who is actively looking to develop innovative solutions, be it  developing complex game mechanics or engineering problem solving techniques for digital systems. 
 
 ---
 
