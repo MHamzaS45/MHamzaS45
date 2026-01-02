@@ -10,7 +10,7 @@ I'm a student of IIT, who is actively looking to develop innovative solutions, b
 - **Languages:** JavaScript, TypeScript, Python, C++, C#
 - **Frontend:** HTML, CSS,
 - **Backend:** JavaScript
-- **Assistive Tools/Platforms** Docker, GitHub, Teams, Notion
+- **Assistive Tools/Platforms** Docker, GitHub, Teams, Notion, VS, VSCode
 
 ---
 
