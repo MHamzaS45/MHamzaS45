@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-I'm a student of IIT, who is actively looking to develop innovative solutions, be it developing complex game mechanics or engineering problem solving techniques for unique systems.<br><br>I enjoy Game Development and Software Engineering, and actively seek opportunities to pursue and enlighten myself of the specifics of these fields<br> 
+I'm a student of IIT, who is actively looking to develop innovative solutions, be it developing complex game mechanics or engineering problem solving techniques for unique systems.<br><br>I enjoy Game Development and Software Engineering, and actively seek opportunities to pursue and enlighten myself of the specifics of these fields, through developing projects and more. <br> 
 
 
 ## 🌐 Socials:
