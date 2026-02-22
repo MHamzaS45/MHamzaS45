@@ -30,6 +30,5 @@ I am a student of IIT, who is actively looking to develop innovative solutions, 
 </p><br><br>
 
 
-<b>Browse through the repositories as you wish. </b> 😀
-
+<b>Browse through the repositories as you wish. </b> 😀 <br><br>
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
