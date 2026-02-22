@@ -15,6 +15,8 @@ I am a student of IIT, who is actively looking to develop innovative solutions, 
 ![](https://nirzak-streak-stats.vercel.app/?user=MHamzaS45&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHamzaS45&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=MHamzaS45)](https://github.com/MHamzaS45/github-readme-stats)
+
 ## 📃 GitHub Return:
 
 [Link](https://github.com/MHamzaS45)
