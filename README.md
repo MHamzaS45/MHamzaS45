@@ -1,5 +1,5 @@
 ### Hi, I'm Hamza 👋
-<br><br>
+<br>
 
 # 💫 About Me:
 I am a student of IIT, who is actively looking to develop innovative solutions, be it developing complex game mechanics or engineering problem solving techniques for unique systems.<br><br>I enjoy Game Development and Software Engineering, with a strong interest in AI agenting and engineering. I actively seek opportunities to pursue and enlighten myself of the specifics of these fields, through developing projects and more. <br> 
@@ -15,9 +15,9 @@ I am a student of IIT, who is actively looking to develop innovative solutions, 
 ![](https://nirzak-streak-stats.vercel.app/?user=MHamzaS45&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHamzaS45&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 📃 GitHub Return
+## 📃 GitHub Return:
 
-https://github.com/MHamzaS45
+[Link](https://github.com/MHamzaS45)
 
 
 <p align="center">
