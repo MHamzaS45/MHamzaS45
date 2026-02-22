@@ -1,4 +1,8 @@
 ### Hi, I'm Hamza 👋
+<br>
+<p align="center">
+  <img src="MHamzaS45-space-shooter.gif" width="700">
+</p>
 <br><br>
 
 # 💫 About Me:
@@ -18,5 +22,6 @@ I am a student of IIT, who is actively looking to develop innovative solutions, 
 ### 📃 GitHub Return
 
 https://github.com/MHamzaS45
+
 
 Browse through the repositories as you wish. 😀
