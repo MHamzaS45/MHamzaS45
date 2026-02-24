@@ -13,12 +13,11 @@ I am a student of IIT, who is actively looking to develop innovative solutions, 
 <br><br>
 
 # 📊 GitHub Stats:
-![Hamza's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MHamzaS45&show_icons=true&theme=synthwave)<br><br>
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MHamzaS45&theme=gradient)](https://github.com/Pranesh-2005/github-readme-stats)<br>
-![](https://github-readme-stats.vercel.app/api?username=MHamzaS45&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MHamzaS45&theme=blue_navy&hide_border=false)<br/>
+![Hamza's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MHamzaS45&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MHamzaS45&theme=gradient)](https://github.com/Pranesh-2005/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=MHamzaS45&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=MHamzaS45&theme=blue_navy&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHamzaS45&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
 ## 📃 GitHub Return:
 
 [<b>Browse through the repositories as you wish. </b> 😀](https://github.com/MHamzaS45?tab=repositories)
