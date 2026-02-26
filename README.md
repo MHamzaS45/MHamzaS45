@@ -1,8 +1,5 @@
 <h3 align = "center"> Hi, I'm Hamza 👋 </h3>
 
-# 💫 About Me:
-Student of Industrial IT. I enjoy Game Development and Software Engineering, with a strong interest in AI agenting and engineering. I actively seek opportunities to pursue and enlighten myself of the specifics of these fields, through project work and more. <br><br>
-
 # 🔥 Featured Projects:
 
 ### Code Security Analyzer
