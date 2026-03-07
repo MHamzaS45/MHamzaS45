@@ -1,9 +1,9 @@
 <h3 align = "center"> Hi, I'm Hamza 👋 </h3>
 
 # 🔥 Featured Projects:
+Check out some of my projects, with many more to come
 
 ### Chaos Kitchen (SuperCell AI Hack 2026)
-Check out some of my projects, with many more to come
 
 [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Chaos-Kitchen---Supercell-AI-Hack-2026-Submission)
 
