@@ -3,6 +3,9 @@
 # 🔥 Featured Projects:
 Check out some of my projects, with many more to come
 
+### Hollow Purple - Computer Vision Project 
+[![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Hollow-Purple)
+
 ### Chaos Kitchen (SuperCell AI Hack 2026)
 
 [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Chaos-Kitchen---Supercell-AI-Hack-2026-Submission)
