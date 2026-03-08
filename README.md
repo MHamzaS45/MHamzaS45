@@ -3,6 +3,10 @@
 # 🔥 Featured Projects:
 Check out some of my projects, with many more to come
 
+### Code Security Analyzer
+
+[![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/security-code-analyzer)
+
 ### Hollow Purple - Computer Vision Project  [WIP]
 [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Hollow-Purple)
 
@@ -26,9 +30,6 @@ Check out some of my projects, with many more to come
 
 [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/fcg-hackathon-naturepositivity-project)
 
-### Code Security Analyzer
-
-[![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/security-code-analyzer)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-sahqani-651135388/)
