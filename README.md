@@ -10,8 +10,15 @@ Check out some of my projects, with many more to come
 |<b>  Galactic Attack (Unity 3D) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/GALACTIC-ATTACK) |
 |<b>  Monte Carlo Simulation (EU) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/MONTE-CARLO-SIMULATION) |
 | <b> AURA (Deployment/E-Comm) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/my-e-commerce-app-project) |
-| <b> Lahti Green Infrastructure (FCG Hackathon 2025) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/fcg-hackathon-naturepositivity-project) | </b>
+| <b> Lahti Green Infrastructure (FCG Hackathon 2025) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/fcg-hackathon-naturepositivity-project) | </b><br>
 
+University Work <br>
+| Course | Link |
+| ------------- | ------------- |
+| Programming Fundamentals (Python) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Programming-Fundamentals-Python) |
+| Web Design & Development (HTML, JS, CSS) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Web-Development) |
+| OOP w/ Python | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Object-Oriented-Programming) |
+| DataBases (SQLite) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/DataBases-BackEnd) |
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-sahqani-651135388/)
