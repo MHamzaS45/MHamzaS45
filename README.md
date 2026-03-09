@@ -2,33 +2,15 @@
 
 # 🔥 Featured Projects:
 Check out some of my projects, with many more to come
-
-### Code Security Analyzer
-
-[![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/security-code-analyzer)
-
-### Hollow Purple - Computer Vision Project  [WIP]
-[![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Hollow-Purple)
-
-### Chaos Kitchen (SuperCell AI Hack 2026)
-
-[![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Chaos-Kitchen---Supercell-AI-Hack-2026-Submission)
-
-### Galactic Attack 
-
-[![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/GALACTIC-ATTACK)
-
-### Monte Carlo Simulation (EU)
-
-[![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/MONTE-CARLO-SIMULATION)
-
-### AURA E commerce (Stripe and Vercel Pract)
-
-[![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/my-e-commerce-app-project)
-
-### Lahti Green Infrastructure (FCG Hackathon 2025)
-
-[![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/fcg-hackathon-naturepositivity-project)
+| Project          | #Link |
+| ------------- | ------------- |
+|<b>  Code Security Analyzer (Python & Gemini API) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/security-code-analyzer) |
+| <b> Hollow Purple - (Mediapipe)  [WIP] |[![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Hollow-Purple) |
+|<b>  Chaos Kitchen (SuperCell AI Hack 2026) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Chaos-Kitchen---Supercell-AI-Hack-2026-Submission) |
+|<b>  Galactic Attack (Unity 3D) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/GALACTIC-ATTACK) |
+|<b>  Monte Carlo Simulation (EU) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/MONTE-CARLO-SIMULATION) |
+| <b> AURA (Deployment/E-Comm) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/my-e-commerce-app-project) |
+| <b> Lahti Green Infrastructure (FCG Hackathon 2025) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/fcg-hackathon-naturepositivity-project) | </b>
 
 
 ## 🌐 Socials:
