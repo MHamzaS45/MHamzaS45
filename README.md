@@ -39,7 +39,7 @@ University Work <br>
 
 
 # 📊 GitHub Stats:
-![Hamza's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MHamzaS45&show_icons=true&theme=synthwave)
+
 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=MHamzaS45&theme=blue_navy&hide_border=false) <br><br>
