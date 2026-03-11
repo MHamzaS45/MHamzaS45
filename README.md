@@ -1,5 +1,7 @@
 <h3 align = "center"> Hi, I'm Hamza 👋 </h3>
 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={MHamzaS45}&theme={dracula}) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHamzaS45&theme=github_dark) 
+
 # 🔥 Featured Projects:
 Check out some of my projects, with many more to come
 | Project          | #Link |
@@ -39,7 +41,7 @@ University Work <br>
 ![](https://github-readme-stats.vercel.app/api?username=MHamzaS45&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=MHamzaS45&theme=blue_navy&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHamzaS45&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={MHamzaS45}&theme={dracula}) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHamzaS45&theme=github_dark)
+
 
 
 ## 📃 GitHub Return:
