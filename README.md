@@ -1,4 +1,7 @@
-<h3 align = "center"> Hi, I'm Hamza 👋 </h3>
+<h1 align = "center"> Hi, I'm Hamza 👋 </h1>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-sahqani-651135388/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-%230077B5.svg?logo=itch.io&logoColor=red)](https://uwut09.itch.io/)
 
 <p align="center">
   <img src="MHamzaS45-space-shooter.gif" width="700">
