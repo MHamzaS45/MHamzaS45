@@ -24,10 +24,9 @@ Check out some of my projects, with many more to come
 
 | Course | Link |
 | ------------- | ------------- |
-| Programming Fundamentals (Python) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Programming-Fundamentals-Python) |
-| Web Design & Development (HTML, JS, CSS) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Web-Development) |
-| OOP w/ Python | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Object-Oriented-Programming) |
-| DataBases (SQLite) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/DataBases-BackEnd) |
+| Programming Fundamentals (Python) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Repo-black?logo=github)](https://github.com/MHamzaS45/Programming-Fundamentals-Python) |
+| Web Design & Development (HTML, JS, CSS) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Repo-black?logo=github)](https://github.com/MHamzaS45/Web-Development) |
+| Data Pipelines (OOP, BackEnd, REST APIs) |[![Readme Card](https://img.shields.io/badge/GitHub-View_Repo-black?logo=github)](https://github.com/MHamzaS45/Data-Pipelines) | 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-sahqani-651135388/)
