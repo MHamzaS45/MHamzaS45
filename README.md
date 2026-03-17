@@ -28,9 +28,6 @@ Check out some of my projects, with many more to come
 | Web Design & Development (HTML, JS, CSS) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Repo-black?logo=github)](https://github.com/MHamzaS45/Web-Development) |
 | Data Pipelines (OOP, BackEnd, REST APIs) |[![Readme Card](https://img.shields.io/badge/GitHub-View_Repo-black?logo=github)](https://github.com/MHamzaS45/Data-Pipelines) | 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-sahqani-651135388/)
-[![Itch.io](https://img.shields.io/badge/Itch.io-%230077B5.svg?logo=itch.io&logoColor=red)](https://uwut09.itch.io/)
 <br><br>
 # 💻 Tech Stack & Tools:
 <b> Languages/Engines </b>:<br><br>
