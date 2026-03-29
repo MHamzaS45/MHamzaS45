@@ -24,7 +24,7 @@ Check out some of my projects, with many more to come
 |  |  |
 </b><br>
 
-<br> <h2> University Work </h2>
+<br> <h2> CourseWork </h2>
 
 | Course | Link |
 | ------------- | ------------- |
