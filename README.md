@@ -22,9 +22,17 @@ Check out some of my projects, with many more to come
 | <b> AURA (Deployment/E-Comm) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/my-e-commerce-app-project) |
 | <b> Lahti Green Infrastructure (FCG Hackathon 2025) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/fcg-hackathon-naturepositivity-project) | 
 |  |  |
-</b><br>
+</b>
+<br><br><br>
 
-<br> <h2> CourseWork </h2>
+Minor Projects:
+
+| Title | Link |
+| ------------- | ------------- |
+| Student Peformance Factors Linear Regression Algorithm | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/ExamScore-Linear-Regression-Algorithm) |
+<br>
+
+<h2> CourseWork </h2>
 
 | Course | Link |
 | ------------- | ------------- |
