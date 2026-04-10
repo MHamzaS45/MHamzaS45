@@ -20,7 +20,7 @@ Check out some of my projects, with many more to come
 |<b>  Galactic Attack (Unity 3D) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/GALACTIC-ATTACK) |
 |<b>  European Stock Pricer Engine (Monte Carlo Simulation) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/MONTE-CARLO-SIMULATION) |
 | <b> AURA (Deployment/E-Comm) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/my-e-commerce-app-project) |
-| <b> Lahti Green Infrastructure (FCG Hackathon 2025) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/fcg-hackathon-naturepositivity-project) | 
+| <h4> Lahti Green Roofing Risk Assessement Web Application (FCG Hackathon 2025) </h4> | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/fcg-hackathon-naturepositivity-project) | 
 |  |  |
 </b>
 <br><br><br>
