@@ -3,10 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-sahqani-651135388/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-%230077B5.svg?logo=itch.io&logoColor=red)](https://uwut09.itch.io/) </h1>
 
-<p align="center">
-  <img src="MHamzaS45-space-shooter.gif" width="700">
-</p><br><br>
-
+<br> <br>
 
 # 🔥 Featured Projects:
 Check out some of my projects, with many more to come
@@ -56,7 +53,12 @@ Minor Projects:
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=MHamzaS45&theme=blue_navy&hide_border=false) <br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHamzaS45&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHamzaS45&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+<br>
+
+<p align="center">
+  <img src="MHamzaS45-space-shooter.gif" width="700">
+</p><br><br>
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={MHamzaS45}&theme={dracula}) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHamzaS45&theme=github_dark) 
 
