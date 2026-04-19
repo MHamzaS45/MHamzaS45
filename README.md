@@ -6,6 +6,9 @@
 
 <br> <br>
 
+- Innovation through systems thinking <br><br>
+- Actively resarching into developing innovative solutions with AI
+
 # 🔥 Featured Projects:
 Check out some of my projects, with many more to come
 | Project          | #Link |
