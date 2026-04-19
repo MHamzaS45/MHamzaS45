@@ -15,6 +15,7 @@ Check out some of my projects, with many more to come
 | ------------- | ------------- |
 | CHIP 8 Emulator (C++) | N/A |
 | PyTorch Mini LLM (NanoGPT integration) |WIP| 
+| <b> New York Housing Data Analysis (JyptNt, Folium, Seaborn) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Data-Pipelines/tree/main/NumPy/new_york_housing) |
 | <b> Streamlit AI Recipe Creator (Python, GroqAPI) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/ai-meal-recipe-planner) |
 | <b> Amazon Bedrock Finance Agent | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Bedrock-Finance-Agent) |
 | <b>  Code Security Analyzer (Python & Gemini API) | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/security-code-analyzer) |
