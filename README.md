@@ -29,11 +29,12 @@ Check out some of my projects, with many more to come
 </b>
 <br><br><br>
 
-Minor Projects:
+Minor Projects/Repo:
 
 | Title | Topics | Link |
 | ------------- | ------------- | ---------| 
 | Student Peformance Factors Linear Regression Algorithm | Python, Machine Learning, Data Analysis |  [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/ExamScore-Linear-Regression-Algorithm) |
+| DSA with C# | Data Structures and Algorithms  | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/DSA-CSHARP)  |
 |  |  |
 <br>
 
