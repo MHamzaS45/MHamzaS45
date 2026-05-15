@@ -12,6 +12,7 @@
 Check out some of my projects, with many more to come
 | Project          | Topics | Link |
 | ------------- | ------------- | ----------- |
+| Stealth Surveillance Analytics System | FastAPI, Docker, NumPy, Pydantic, Security | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/ssas) |
 | CHIP 8 Emulator | C++, VG Emulation | N/A |
 | PyTorch Mini LLM  | PyTorch, Neural Networks |WIP| 
 | <b> BMW Average Sales per Model + Movie Budget vs Score Correlation | Pandas, Data Science, Data Analysis |  [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/BMW-Average-Sales-per-Model-Movie-Budget-vs-Score-Correlation)
