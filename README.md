@@ -1,9 +1,11 @@
-<h1 align = "center"> Hi,  I'm Hamza 👋 
+<h3 align = "center"><i>Hi,  I'm Hamza 👋 </i> 
+<br><br>
 
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-sahqani-651135388/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-%230077B5.svg?logo=itch.io&logoColor=red)](https://uwut09.itch.io/) 
-[![Itch.io](https://img.shields.io/badge/Certificates-%230077B5.svg?logo=certificates&logoColor=red)](https://www.linkedin.com/in/hamza-sahqani-651135388/details/certifications/) </h1>
-Active Building Enjoyer
+[![Itch.io](https://img.shields.io/badge/Certificates-%230077B5.svg?logo=certificates&logoColor=red)](https://www.linkedin.com/in/hamza-sahqani-651135388/details/certifications/) </h3>
+
 <br><br>
 ## 💻 Tech Stack & Tools:
 <b> Languages/Engines </b>:<br><br>
@@ -45,7 +47,7 @@ Minor Projects/Repo:
 |  |  |
 <br>
 
-<h2> CourseWork </h2>
+## CourseWork
 
 | Course | Link |
 | ------------- | ------------- |
@@ -60,7 +62,7 @@ Minor Projects/Repo:
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=MHamzaS45&theme=blue_navy&hide_border=false) <br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHamzaS45&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 <br>
