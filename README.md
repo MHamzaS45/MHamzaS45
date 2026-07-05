@@ -20,20 +20,14 @@
 Check out some of my projects, with many more to come
 | Project          | Topics | Link |
 | ------------- | ------------- | ----------- |
+| <b> Adaptive NEAT Engine (v 0.9) | NEAT, Neuroevolution, Python | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/adaptive-neat-engine) |
 | Stealth Surveillance Analytics System | FastAPI, Docker, NumPy, Pydantic, Security | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/ssas) |
 | CHIP 8 Emulator | C++, VG Emulation | N/A |
 | PyTorch Mini LLM  | PyTorch, Neural Networks |WIP| 
 | <b> BMW Average Sales per Model + Movie Budget vs Score Correlation | Pandas, Data Science, Data Analysis |  [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/BMW-Average-Sales-per-Model-Movie-Budget-vs-Score-Correlation)
-| <b> New York Housing Data Analysis  | Folium, Pandas, Data Analysis | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Data-Pipelines/tree/main/NumPy/new_york_housing) |
-| <b> Streamlit AI Recipe Creator | Python, GroqAPI, Deployment | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/ai-meal-recipe-planner) |
-| <b> Amazon Bedrock Finance Agent | AWS, Python | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Bedrock-Finance-Agent) |
-| <b>  Code Security Analyzer (Python & Gemini API) | Gemini, Python, GenAI API | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/security-code-analyzer) |
 | <b> Hollow Purple - (Mediapipe) | Computer Vision, JS  | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Hollow-Purple) |
 | <b>  Chaos Kitchen (SuperCell AI Hack 2026) | ThreeJS, GameDev | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Chaos-Kitchen---Supercell-AI-Hack-2026-Submission) |
 | <b>  Galactic Attack (Unity 3D) | C#, Unity3D, GameDev | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/GALACTIC-ATTACK) |
-| <b>  European Stock Pricer Engine (Monte Carlo Simulation) | Python, Quant, Data | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/MONTE-CARLO-SIMULATION) |
-| <b> AURA (Deployment/E-Comm) | Front End, Vercel, Typescript | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/my-e-commerce-app-project) |
-| <h4> Lahti Green Roofing Risk Assessement Web Application (FCG Hackathon 2025) </h4> | Front End, Typescript | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/fcg-hackathon-naturepositivity-project) | 
 |  |  |
 </b>
 <br><br><br>
@@ -44,6 +38,13 @@ Minor Projects/Repo:
 | ------------- | ------------- | ---------| 
 | Student Peformance Factors Linear Regression Algorithm | Python, Machine Learning, Data Analysis |  [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/ExamScore-Linear-Regression-Algorithm) |
 | DSA with C# | Data Structures and Algorithms  | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/DSA-CSHARP)  |
+| <b>  European Stock Pricer Engine (Monte Carlo Simulation) | Python, Quant, Data | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/MONTE-CARLO-SIMULATION) |
+| <b> AURA (Deployment/E-Comm) | Front End, Vercel, Typescript | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/my-e-commerce-app-project) |
+| <h4> Lahti Green Roofing Risk Assessement Web Application (FCG Hackathon 2025) </h4> | Front End, Typescript | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/fcg-hackathon-naturepositivity-project) | 
+| <b> Streamlit AI Recipe Creator | Python, GroqAPI, Deployment | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/ai-meal-recipe-planner) |
+| <b> Amazon Bedrock Finance Agent | AWS, Python | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Bedrock-Finance-Agent) |
+| <b>  Code Security Analyzer (Python & Gemini API) | Gemini, Python, GenAI API | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/security-code-analyzer) |
+| <b> New York Housing Data Analysis  | Folium, Pandas, Data Analysis | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/Data-Pipelines/tree/main/NumPy/new_york_housing) |
 |  |  |
 <br>
 
