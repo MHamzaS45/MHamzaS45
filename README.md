@@ -1,5 +1,4 @@
-<h3 align = "center"><i>Hi,  I'm Hamza 👋 </i> 
-<br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2000&pause=4000&color=59FF10&multiline=true&width=435&lines=++++++++++++Hello%2C+I'm+Hamza+!)](https://git.io/typing-svg) <br><br>
 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-sahqani-651135388/)
