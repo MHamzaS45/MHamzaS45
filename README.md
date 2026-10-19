@@ -19,7 +19,7 @@
 Check out some of my projects, with many more to come
 | Project          | Topics | Link |
 | ------------- | ------------- | ----------- |
-| <b> Predictive Modelling Battery Energy Consumption | Machine Learning, Data Engineering | 🔏 |
+| <b> Predictive Modelling Battery Energy Consumption (COMPANY COLLAB) | Machine Learning, Data Engineering |  [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/HoangDaiLam/Predictive-Modeling) |
 | Adaptive NEAT Engine (v 0.9) | NEAT, Neuroevolution, Python | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/adaptive-neat-engine) |
 | Stealth Surveillance Analytics System | FastAPI, Docker, NumPy, Pydantic, Security | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/ssas) |
 | CHIP 8 Emulator | C++, VG Emulation | N/A |
