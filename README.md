@@ -1,12 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2000&pause=4000&color=59FF10&multiline=true&width=435&lines=++++++++++++Hello%2C+I'm+Hamza+!)](https://git.io/typing-svg) <br><br>
+# <div align="center"> HAMZA SAHQANI </div>
 
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-sahqani-651135388/)
-[![Itch.io](https://img.shields.io/badge/Itch.io-%230077B5.svg?logo=itch.io&logoColor=red)](https://uwut09.itch.io/) 
-[![Itch.io](https://img.shields.io/badge/Certificates-%230077B5.svg?logo=certificates&logoColor=red)](https://www.linkedin.com/in/hamza-sahqani-651135388/details/certifications/) </h3>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2000&pause=4000&color=59FF10&multiline=true&width=435&lines=Hello%2C+I'm+Hamza!)](https://git.io/typing-svg)
+
+**INDUSTRIAL IT // MACHINE LEARNING // FDE ENTHUSIAST**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-sahqani-651135388/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itch.io&logoColor=white)](https://uwut09.itch.io/)
+[![Certificates](https://img.shields.io/badge/Certificates-59FF10?logo=readme&logoColor=black)](https://www.linkedin.com/in/hamza-sahqani-651135388/details/certifications/)
+
+
+
+
+</div>
 
 <br><br>
-## 💻 Tech Stack & Tools:
+## Tech stack
 <b> Languages/Engines </b>:<br><br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 
@@ -15,9 +25,9 @@
 
 
 
-##  🔥 Featured Projects:
+## Featured Projects:
 Check out some of my projects, with many more to come
-| Project          | Topics | Link |
+| Project       | Topics        | Link        |
 | ------------- | ------------- | ----------- |
 | <b> Predictive Modelling Battery Energy Consumption (COMPANY COLLAB) | Machine Learning, Data Engineering |  [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/HoangDaiLam/Predictive-Modeling) |
 | Adaptive NEAT Engine (v 0.9) | NEAT, Neuroevolution, Python | [![Readme Card](https://img.shields.io/badge/GitHub-View_Project-black?logo=github)](https://github.com/MHamzaS45/adaptive-neat-engine) |
@@ -63,14 +73,14 @@ Minor Projects/Repo:
 
 
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=MHamzaS45&theme=blue_navy&hide_border=false) <br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHamzaS45&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 <br>
-
 <p align="center">
   <img src="MHamzaS45-space-shooter.gif" width="700">
-</p><br><br>
+</p> 
+<br><br>
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={MHamzaS45}&theme={dracula}) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHamzaS45&theme=github_dark) 
 
